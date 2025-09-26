@@ -1,0 +1,6 @@
+- Fork no repositório
+- Crio uma nova branch baseada na MAIN
+- Crio a funcionalidade e dou os comits necessários.
+- Crio um PULL REQUEST para dar merge da minha nova branch e main
+- Vai ocorrer uma análise e o PR vai ser aprovado (ou não).
+- Deletar a branch nova.
